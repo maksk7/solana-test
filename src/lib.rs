@@ -10,4 +10,5 @@ pub mod entrypoint;
 mod tests;
 
 const CONFIG_SEED: &str = "config";
+const TARGET_TOKEN_MINT_SEED: &str = "target_token_mint";
 solana_program::declare_id!("9onZvMzqAFzSHJrLNVWfqLRFFQ5ZCGzNXB4PBxmp6z5Y");
